@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T15:09:57.660Z",
+  "timestamp": "2025-12-31T05:45:26.771Z",
   "date": "2025-07-11",
   "indicator": {
     "name": "Término de facturación de energía activa del PVPC 2.0TD",
@@ -18,14 +18,6 @@
       "price": 0.1488,
       "datetime": "2025-07-11T00:00:00.000+02:00",
       "datetime_utc": "2025-07-10T22:00:00Z"
-    },
-    {
-      "hour": 0,
-      "priceMWh": 156.78,
-      "priceKWh": 0.1568,
-      "price": 0.1568,
-      "datetime": "2025-07-12T00:00:00.000+02:00",
-      "datetime_utc": "2025-07-11T22:00:00Z"
     },
     {
       "hour": 1,
@@ -213,7 +205,7 @@
     }
   ],
   "summary": {
-    "totalHours": 25,
+    "totalHours": 24,
     "minPrice": {
       "valueMWh": 101.64,
       "valueKWh": 0.1016,
@@ -228,9 +220,9 @@
       "hour": 21,
       "datetime": "2025-07-11T21:00:00.000+02:00"
     },
-    "avgPriceMWh": 160.74,
-    "avgPriceKWh": 0.1607,
-    "avgPrice": 0.1607,
+    "avgPriceMWh": 160.9,
+    "avgPriceKWh": 0.1609,
+    "avgPrice": 0.1609,
     "cheapestIntervals": {
       "1h": {
         "startHour": 16,
@@ -241,7 +233,7 @@
         ],
         "percentageDiff": null,
         "savingsVsMostExpensive": 58.17,
-        "savingsVsAverage": 36.79
+        "savingsVsAverage": 36.85
       },
       "2h": {
         "startHour": 15,
@@ -253,7 +245,7 @@
         ],
         "percentageDiff": 2.46,
         "savingsVsMostExpensive": 56.08,
-        "savingsVsAverage": 35.23
+        "savingsVsAverage": 35.3
       },
       "3h": {
         "startHour": 15,
@@ -266,7 +258,7 @@
         ],
         "percentageDiff": 1.25,
         "savingsVsMostExpensive": 54.15,
-        "savingsVsAverage": 34.43
+        "savingsVsAverage": 34.49
       },
       "4h": {
         "startHour": 14,
@@ -280,7 +272,7 @@
         ],
         "percentageDiff": 0.76,
         "savingsVsMostExpensive": 51.81,
-        "savingsVsAverage": 33.93
+        "savingsVsAverage": 33.99
       },
       "6h": {
         "startHour": 13,
@@ -296,7 +288,7 @@
         ],
         "percentageDiff": 24.2,
         "savingsVsMostExpensive": 36.43,
-        "savingsVsAverage": 17.94
+        "savingsVsAverage": 18.02
       }
     },
     "cheapestIntervalsDaytime": {
@@ -309,7 +301,7 @@
         ],
         "percentageDiff": null,
         "savingsVsMostExpensive": 58.17,
-        "savingsVsAverage": 36.79,
+        "savingsVsAverage": 36.85,
         "percentageDiffVsFullDay": 0
       },
       "2h": {
@@ -322,7 +314,7 @@
         ],
         "percentageDiff": 2.46,
         "savingsVsMostExpensive": 56.08,
-        "savingsVsAverage": 35.23,
+        "savingsVsAverage": 35.3,
         "percentageDiffVsFullDay": 0
       },
       "3h": {
@@ -336,7 +328,7 @@
         ],
         "percentageDiff": 1.25,
         "savingsVsMostExpensive": 54.15,
-        "savingsVsAverage": 34.43,
+        "savingsVsAverage": 34.49,
         "percentageDiffVsFullDay": 0
       },
       "4h": {
@@ -351,7 +343,7 @@
         ],
         "percentageDiff": 0.76,
         "savingsVsMostExpensive": 51.81,
-        "savingsVsAverage": 33.93,
+        "savingsVsAverage": 33.99,
         "percentageDiffVsFullDay": 0
       },
       "6h": {
@@ -368,7 +360,7 @@
         ],
         "percentageDiff": 24.2,
         "savingsVsMostExpensive": 32.36,
-        "savingsVsAverage": 17.94,
+        "savingsVsAverage": 18.02,
         "percentageDiffVsFullDay": 0
       }
     },

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T15:09:34.631Z",
+  "timestamp": "2025-12-31T05:45:04.853Z",
   "date": "2025-06-09",
   "indicator": {
     "name": "Término de facturación de energía activa del PVPC 2.0TD",
@@ -18,14 +18,6 @@
       "price": 0.1356,
       "datetime": "2025-06-09T00:00:00.000+02:00",
       "datetime_utc": "2025-06-08T22:00:00Z"
-    },
-    {
-      "hour": 0,
-      "priceMWh": 139.62,
-      "priceKWh": 0.1396,
-      "price": 0.1396,
-      "datetime": "2025-06-10T00:00:00.000+02:00",
-      "datetime_utc": "2025-06-09T22:00:00Z"
     },
     {
       "hour": 1,
@@ -213,7 +205,7 @@
     }
   ],
   "summary": {
-    "totalHours": 25,
+    "totalHours": 24,
     "minPrice": {
       "valueMWh": 58.94,
       "valueKWh": 0.0589,
@@ -253,7 +245,7 @@
         ],
         "percentageDiff": 0.68,
         "savingsVsMostExpensive": 76.79,
-        "savingsVsAverage": 57.5
+        "savingsVsAverage": 57.49
       },
       "3h": {
         "startHour": 14,
@@ -322,7 +314,7 @@
         ],
         "percentageDiff": 0.68,
         "savingsVsMostExpensive": 76.79,
-        "savingsVsAverage": 57.5,
+        "savingsVsAverage": 57.49,
         "percentageDiffVsFullDay": 0
       },
       "3h": {

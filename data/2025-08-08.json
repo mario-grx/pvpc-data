@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T15:10:19.835Z",
+  "timestamp": "2025-12-31T05:45:46.087Z",
   "date": "2025-08-08",
   "indicator": {
     "name": "Término de facturación de energía activa del PVPC 2.0TD",
@@ -18,14 +18,6 @@
       "price": 0.1453,
       "datetime": "2025-08-08T00:00:00.000+02:00",
       "datetime_utc": "2025-08-07T22:00:00Z"
-    },
-    {
-      "hour": 0,
-      "priceMWh": 147.93,
-      "priceKWh": 0.1479,
-      "price": 0.1479,
-      "datetime": "2025-08-09T00:00:00.000+02:00",
-      "datetime_utc": "2025-08-08T22:00:00Z"
     },
     {
       "hour": 1,
@@ -213,7 +205,7 @@
     }
   ],
   "summary": {
-    "totalHours": 25,
+    "totalHours": 24,
     "minPrice": {
       "valueMWh": 49.46,
       "valueKWh": 0.0495,
@@ -228,7 +220,7 @@
       "hour": 21,
       "datetime": "2025-08-08T21:00:00.000+02:00"
     },
-    "avgPriceMWh": 147.6,
+    "avgPriceMWh": 147.58,
     "avgPriceKWh": 0.1476,
     "avgPrice": 0.1476,
     "cheapestIntervals": {
@@ -266,7 +258,7 @@
         ],
         "percentageDiff": 6.83,
         "savingsVsMostExpensive": 78.63,
-        "savingsVsAverage": 63.96
+        "savingsVsAverage": 63.95
       },
       "4h": {
         "startHour": 14,
@@ -280,7 +272,7 @@
         ],
         "percentageDiff": 24.06,
         "savingsVsMostExpensive": 71.97,
-        "savingsVsAverage": 55.29
+        "savingsVsAverage": 55.28
       },
       "6h": {
         "startHour": 12,
@@ -336,7 +328,7 @@
         ],
         "percentageDiff": 6.83,
         "savingsVsMostExpensive": 78.63,
-        "savingsVsAverage": 63.96,
+        "savingsVsAverage": 63.95,
         "percentageDiffVsFullDay": 0
       },
       "4h": {
@@ -351,7 +343,7 @@
         ],
         "percentageDiff": 24.06,
         "savingsVsMostExpensive": 71.97,
-        "savingsVsAverage": 55.29,
+        "savingsVsAverage": 55.28,
         "percentageDiffVsFullDay": 0
       },
       "6h": {

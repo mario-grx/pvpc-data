@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-28T15:07:59.569Z",
+  "timestamp": "2025-12-31T05:43:32.949Z",
   "date": "2025-01-31",
   "indicator": {
     "name": "Término de facturación de energía activa del PVPC 2.0TD",
@@ -18,14 +18,6 @@
       "price": 0.0917,
       "datetime": "2025-01-31T00:00:00.000+01:00",
       "datetime_utc": "2025-01-30T23:00:00Z"
-    },
-    {
-      "hour": 0,
-      "priceMWh": 192.31,
-      "priceKWh": 0.1923,
-      "price": 0.1923,
-      "datetime": "2025-02-01T00:00:00.000+01:00",
-      "datetime_utc": "2025-01-31T23:00:00Z"
     },
     {
       "hour": 1,
@@ -213,7 +205,7 @@
     }
   ],
   "summary": {
-    "totalHours": 25,
+    "totalHours": 24,
     "minPrice": {
       "valueMWh": 83.04,
       "valueKWh": 0.083,
@@ -228,9 +220,9 @@
       "hour": 18,
       "datetime": "2025-01-31T18:00:00.000+01:00"
     },
-    "avgPriceMWh": 170.13,
-    "avgPriceKWh": 0.1701,
-    "avgPrice": 0.1701,
+    "avgPriceMWh": 169.21,
+    "avgPriceKWh": 0.1692,
+    "avgPrice": 0.1692,
     "cheapestIntervals": {
       "1h": {
         "startHour": 14,
@@ -241,7 +233,7 @@
         ],
         "percentageDiff": null,
         "savingsVsMostExpensive": 74.3,
-        "savingsVsAverage": 51.21
+        "savingsVsAverage": 50.95
       },
       "2h": {
         "startHour": 14,
@@ -253,7 +245,7 @@
         ],
         "percentageDiff": 4.7,
         "savingsVsMostExpensive": 72.83,
-        "savingsVsAverage": 48.92
+        "savingsVsAverage": 48.64
       },
       "3h": {
         "startHour": 14,
@@ -266,37 +258,37 @@
         ],
         "percentageDiff": 11.62,
         "savingsVsMostExpensive": 68.93,
-        "savingsVsAverage": 42.98
+        "savingsVsAverage": 42.67
       },
       "4h": {
-        "startHour": 1,
-        "endHour": 4,
-        "averagePrice": 0.107,
+        "startHour": 0,
+        "endHour": 3,
+        "averagePrice": 0.1031,
         "prices": [
+          0.0917,
           0.1054,
           0.1083,
-          0.107,
-          0.1073
+          0.107
         ],
-        "percentageDiff": 10.31,
-        "savingsVsMostExpensive": 64.99,
-        "savingsVsAverage": 37.1
+        "percentageDiff": 6.29,
+        "savingsVsMostExpensive": 66.26,
+        "savingsVsAverage": 39.07
       },
       "6h": {
-        "startHour": 1,
-        "endHour": 6,
-        "averagePrice": 0.1133,
+        "startHour": 0,
+        "endHour": 5,
+        "averagePrice": 0.1069,
         "prices": [
+          0.0917,
           0.1054,
           0.1083,
           0.107,
           0.1073,
-          0.1218,
-          0.1297
+          0.1218
         ],
-        "percentageDiff": 5.89,
-        "savingsVsMostExpensive": 58.45,
-        "savingsVsAverage": 33.4
+        "percentageDiff": 3.69,
+        "savingsVsMostExpensive": 60.8,
+        "savingsVsAverage": 36.82
       }
     },
     "cheapestIntervalsDaytime": {
@@ -309,7 +301,7 @@
         ],
         "percentageDiff": null,
         "savingsVsMostExpensive": 74.3,
-        "savingsVsAverage": 51.21,
+        "savingsVsAverage": 50.95,
         "percentageDiffVsFullDay": 0
       },
       "2h": {
@@ -322,7 +314,7 @@
         ],
         "percentageDiff": 4.7,
         "savingsVsMostExpensive": 72.83,
-        "savingsVsAverage": 48.92,
+        "savingsVsAverage": 48.64,
         "percentageDiffVsFullDay": 0
       },
       "3h": {
@@ -336,7 +328,7 @@
         ],
         "percentageDiff": 11.62,
         "savingsVsMostExpensive": 68.93,
-        "savingsVsAverage": 42.98,
+        "savingsVsAverage": 42.67,
         "percentageDiffVsFullDay": 0
       },
       "4h": {
@@ -351,8 +343,8 @@
         ],
         "percentageDiff": 14.85,
         "savingsVsMostExpensive": 63.55,
-        "savingsVsAverage": 34.52,
-        "percentageDiffVsFullDay": 4.11
+        "savingsVsAverage": 34.16,
+        "percentageDiffVsFullDay": 8.05
       },
       "6h": {
         "startHour": 11,
@@ -368,8 +360,8 @@
         ],
         "percentageDiff": 13.46,
         "savingsVsMostExpensive": 52.84,
-        "savingsVsAverage": 25.7,
-        "percentageDiffVsFullDay": 11.56
+        "savingsVsAverage": 25.3,
+        "percentageDiffVsFullDay": 18.24
       }
     },
     "daytimeMatchesFullDay": false
