@@ -1,0 +1,369 @@
+{
+  "timestamp": "2026-01-07T19:47:00.284Z",
+  "date": "2026-01-08",
+  "indicator": {
+    "name": "Término de facturación de energía activa del PVPC 2.0TD",
+    "short_name": "PVPC T. 2.0TD",
+    "id": 1001
+  },
+  "geo": {
+    "id": 8741,
+    "name": "Península"
+  },
+  "hourlyPrices": [
+    {
+      "hour": 0,
+      "priceMWh": 116.15,
+      "priceKWh": 0.1162,
+      "price": 0.1162,
+      "datetime": "2026-01-08T00:00:00.000+01:00",
+      "datetime_utc": "2026-01-07T23:00:00Z"
+    },
+    {
+      "hour": 1,
+      "priceMWh": 116.12,
+      "priceKWh": 0.1161,
+      "price": 0.1161,
+      "datetime": "2026-01-08T01:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T00:00:00Z"
+    },
+    {
+      "hour": 2,
+      "priceMWh": 115.75,
+      "priceKWh": 0.1158,
+      "price": 0.1158,
+      "datetime": "2026-01-08T02:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T01:00:00Z"
+    },
+    {
+      "hour": 3,
+      "priceMWh": 112.51,
+      "priceKWh": 0.1125,
+      "price": 0.1125,
+      "datetime": "2026-01-08T03:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T02:00:00Z"
+    },
+    {
+      "hour": 4,
+      "priceMWh": 107.17,
+      "priceKWh": 0.1072,
+      "price": 0.1072,
+      "datetime": "2026-01-08T04:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T03:00:00Z"
+    },
+    {
+      "hour": 5,
+      "priceMWh": 110.4,
+      "priceKWh": 0.1104,
+      "price": 0.1104,
+      "datetime": "2026-01-08T05:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T04:00:00Z"
+    },
+    {
+      "hour": 6,
+      "priceMWh": 110.86,
+      "priceKWh": 0.1109,
+      "price": 0.1109,
+      "datetime": "2026-01-08T06:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T05:00:00Z"
+    },
+    {
+      "hour": 7,
+      "priceMWh": 132.77,
+      "priceKWh": 0.1328,
+      "price": 0.1328,
+      "datetime": "2026-01-08T07:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T06:00:00Z"
+    },
+    {
+      "hour": 8,
+      "priceMWh": 178.22,
+      "priceKWh": 0.1782,
+      "price": 0.1782,
+      "datetime": "2026-01-08T08:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T07:00:00Z"
+    },
+    {
+      "hour": 9,
+      "priceMWh": 164.44,
+      "priceKWh": 0.1644,
+      "price": 0.1644,
+      "datetime": "2026-01-08T09:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T08:00:00Z"
+    },
+    {
+      "hour": 10,
+      "priceMWh": 199.99,
+      "priceKWh": 0.2,
+      "price": 0.2,
+      "datetime": "2026-01-08T10:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T09:00:00Z"
+    },
+    {
+      "hour": 11,
+      "priceMWh": 193.33,
+      "priceKWh": 0.1933,
+      "price": 0.1933,
+      "datetime": "2026-01-08T11:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T10:00:00Z"
+    },
+    {
+      "hour": 12,
+      "priceMWh": 190.2,
+      "priceKWh": 0.1902,
+      "price": 0.1902,
+      "datetime": "2026-01-08T12:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T11:00:00Z"
+    },
+    {
+      "hour": 13,
+      "priceMWh": 187.49,
+      "priceKWh": 0.1875,
+      "price": 0.1875,
+      "datetime": "2026-01-08T13:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T12:00:00Z"
+    },
+    {
+      "hour": 14,
+      "priceMWh": 114.75,
+      "priceKWh": 0.1148,
+      "price": 0.1148,
+      "datetime": "2026-01-08T14:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T13:00:00Z"
+    },
+    {
+      "hour": 15,
+      "priceMWh": 120.67,
+      "priceKWh": 0.1207,
+      "price": 0.1207,
+      "datetime": "2026-01-08T15:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T14:00:00Z"
+    },
+    {
+      "hour": 16,
+      "priceMWh": 136.33,
+      "priceKWh": 0.1363,
+      "price": 0.1363,
+      "datetime": "2026-01-08T16:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T15:00:00Z"
+    },
+    {
+      "hour": 17,
+      "priceMWh": 152.35,
+      "priceKWh": 0.1523,
+      "price": 0.1523,
+      "datetime": "2026-01-08T17:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T16:00:00Z"
+    },
+    {
+      "hour": 18,
+      "priceMWh": 235.12,
+      "priceKWh": 0.2351,
+      "price": 0.2351,
+      "datetime": "2026-01-08T18:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T17:00:00Z"
+    },
+    {
+      "hour": 19,
+      "priceMWh": 232.55,
+      "priceKWh": 0.2326,
+      "price": 0.2326,
+      "datetime": "2026-01-08T19:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T18:00:00Z"
+    },
+    {
+      "hour": 20,
+      "priceMWh": 226.38,
+      "priceKWh": 0.2264,
+      "price": 0.2264,
+      "datetime": "2026-01-08T20:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T19:00:00Z"
+    },
+    {
+      "hour": 21,
+      "priceMWh": 216.89,
+      "priceKWh": 0.2169,
+      "price": 0.2169,
+      "datetime": "2026-01-08T21:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T20:00:00Z"
+    },
+    {
+      "hour": 22,
+      "priceMWh": 141.58,
+      "priceKWh": 0.1416,
+      "price": 0.1416,
+      "datetime": "2026-01-08T22:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T21:00:00Z"
+    },
+    {
+      "hour": 23,
+      "priceMWh": 130.96,
+      "priceKWh": 0.131,
+      "price": 0.131,
+      "datetime": "2026-01-08T23:00:00.000+01:00",
+      "datetime_utc": "2026-01-08T22:00:00Z"
+    }
+  ],
+  "summary": {
+    "totalHours": 24,
+    "minPrice": {
+      "valueMWh": 107.17,
+      "valueKWh": 0.1072,
+      "value": 0.1072,
+      "hour": 4,
+      "datetime": "2026-01-08T04:00:00.000+01:00"
+    },
+    "maxPrice": {
+      "valueMWh": 235.12,
+      "valueKWh": 0.2351,
+      "value": 0.2351,
+      "hour": 18,
+      "datetime": "2026-01-08T18:00:00.000+01:00"
+    },
+    "avgPriceMWh": 155.96,
+    "avgPriceKWh": 0.156,
+    "avgPrice": 0.156,
+    "cheapestIntervals": {
+      "1h": {
+        "startHour": 4,
+        "endHour": 4,
+        "averagePrice": 0.1072,
+        "prices": [
+          0.1072
+        ],
+        "percentageDiff": null,
+        "savingsVsMostExpensive": 54.4,
+        "savingsVsAverage": 31.27
+      },
+      "2h": {
+        "startHour": 4,
+        "endHour": 5,
+        "averagePrice": 0.1088,
+        "prices": [
+          0.1072,
+          0.1104
+        ],
+        "percentageDiff": 1.49,
+        "savingsVsMostExpensive": 53.48,
+        "savingsVsAverage": 30.24
+      },
+      "3h": {
+        "startHour": 4,
+        "endHour": 6,
+        "averagePrice": 0.1095,
+        "prices": [
+          0.1072,
+          0.1104,
+          0.1109
+        ],
+        "percentageDiff": 0.64,
+        "savingsVsMostExpensive": 52.68,
+        "savingsVsAverage": 29.79
+      },
+      "4h": {
+        "startHour": 3,
+        "endHour": 6,
+        "averagePrice": 0.1103,
+        "prices": [
+          0.1125,
+          0.1072,
+          0.1104,
+          0.1109
+        ],
+        "percentageDiff": 0.73,
+        "savingsVsMostExpensive": 51.56,
+        "savingsVsAverage": 29.28
+      },
+      "6h": {
+        "startHour": 1,
+        "endHour": 6,
+        "averagePrice": 0.1122,
+        "prices": [
+          0.1161,
+          0.1158,
+          0.1125,
+          0.1072,
+          0.1104,
+          0.1109
+        ],
+        "percentageDiff": 1.72,
+        "savingsVsMostExpensive": 44.12,
+        "savingsVsAverage": 28.06
+      }
+    },
+    "cheapestIntervalsDaytime": {
+      "1h": {
+        "startHour": 14,
+        "endHour": 14,
+        "averagePrice": 0.1148,
+        "prices": [
+          0.1148
+        ],
+        "percentageDiff": null,
+        "savingsVsMostExpensive": 51.17,
+        "savingsVsAverage": 26.39,
+        "percentageDiffVsFullDay": 7.09
+      },
+      "2h": {
+        "startHour": 14,
+        "endHour": 15,
+        "averagePrice": 0.1177,
+        "prices": [
+          0.1148,
+          0.1207
+        ],
+        "percentageDiff": 2.53,
+        "savingsVsMostExpensive": 49.68,
+        "savingsVsAverage": 24.54,
+        "percentageDiffVsFullDay": 8.18
+      },
+      "3h": {
+        "startHour": 14,
+        "endHour": 16,
+        "averagePrice": 0.1239,
+        "prices": [
+          0.1148,
+          0.1207,
+          0.1363
+        ],
+        "percentageDiff": 5.27,
+        "savingsVsMostExpensive": 46.46,
+        "savingsVsAverage": 20.56,
+        "percentageDiffVsFullDay": 13.15
+      },
+      "4h": {
+        "startHour": 14,
+        "endHour": 17,
+        "averagePrice": 0.131,
+        "prices": [
+          0.1148,
+          0.1207,
+          0.1363,
+          0.1523
+        ],
+        "percentageDiff": 5.73,
+        "savingsVsMostExpensive": 42.47,
+        "savingsVsAverage": 16.01,
+        "percentageDiffVsFullDay": 18.77
+      },
+      "6h": {
+        "startHour": 12,
+        "endHour": 17,
+        "averagePrice": 0.1503,
+        "prices": [
+          0.1902,
+          0.1875,
+          0.1148,
+          0.1207,
+          0.1363,
+          0.1523
+        ],
+        "percentageDiff": 14.73,
+        "savingsVsMostExpensive": 25.15,
+        "savingsVsAverage": 3.63,
+        "percentageDiffVsFullDay": 33.96
+      }
+    },
+    "daytimeMatchesFullDay": false
+  }
+}
